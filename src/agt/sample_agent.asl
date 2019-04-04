@@ -8,7 +8,7 @@
 
 /* Plans */
 
-+!start : true <- .print("hello world.").
++!start : true <- .print("Hello World JaCaMo.").
 
 { include("$jacamoJar/templates/common-cartago.asl") }
 { include("$jacamoJar/templates/common-moise.asl") }
